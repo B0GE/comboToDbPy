@@ -1,6 +1,6 @@
 [comboToDb]
 logging = true
-threading = true
+threadding = true
 max_threads = 4
 failsave = false
 [fileCfg]
