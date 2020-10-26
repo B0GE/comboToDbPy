@@ -1,0 +1,9 @@
+[comboToDb]
+logging = true
+threading = true
+max_threads = 4
+failsave = false
+[fileCfg]
+activeFile = none
+lastLine = 
+
