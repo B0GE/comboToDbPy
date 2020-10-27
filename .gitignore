@@ -4,3 +4,4 @@ botConf.ini
 genComb.py
 dummyCombo.txt
 singleThread.py
+__pycache__/mysql_dbconfig.cpython-37.pyc
